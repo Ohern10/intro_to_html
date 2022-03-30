@@ -1,0 +1,33 @@
+H1{
+	color:#35c9FF ;
+}
+body{
+	background-color: grey;
+	align-content: center;
+	text-align: center;
+	background-image: url(/images/background.jpg);
+	background-repeat: no-repeat;
+ }
+ input{
+ 	border:solid  ;
+    border-top-color:#35c9FF;
+    border-bottom-color:#27D853;
+    border-right-color:#35c9FF  ;
+    border-left-color:#27D853;
+    border-radius: 20px;
+    border-width: 2px;
+    padding: 10px;
+    background-color: transparent;
+    box-sizing: 10px;
+    box-shadow: darkslategray;
+
+}
+ button{
+  text-align: center;
+  background-color:#27D853 ;
+  border-radius: 15px;
+  background-color: transparent;
+ }
+ .placeholder{ 
+ 	color:#27D853;
+ }

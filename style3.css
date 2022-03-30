@@ -1,0 +1,22 @@
+h1{
+	color:aqua;
+}
+input{
+    border: solid;
+	border-top-color: aquamarine;
+	border-bottom-color:aqua ;
+    border-right-color:aquamarine;
+	border-left-color: aqua;
+	padding: 10px;
+	border-radius: 20px;
+	border-radius: 50px;
+	
+}
+body{
+	background-image:url(https://images-cdn.welcomesoftware.com/Zz0wZGI4ZTI2NjhlNGQxMWViODVlN2QzNTI0ZjhkZTQyOA==) ;
+}
+.container{
+	background-image: url();
+	align-items: center;
+	align-content: center;
+}
